@@ -1,0 +1,1 @@
+Mening [Loyiha nomi] loyiham uchun professional va chiroyli GitHub README.md fayl matnini tayyorlab ber. Ichida loyiha tavsifi, ishlatilingan texnologiyalar (Tech Stack), o'rnatish va ishga tushirish yo'riqnomasi bo'lsin.
